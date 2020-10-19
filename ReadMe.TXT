@@ -1,2 +1,1 @@
-I have done 1st question a bit different.
-And I linked Question 2 "Employee List" on Nav Bar.....
+Here, I have worked with ASP.NET MVC framework and Database is MS SQL Server. It was a simple CRUD operation of a employees.
